@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is h1 heading </h1>
+    <h2>This is h2 Heading</h2>
+    <h3>This is h2 Heading</h3>
+    <h4>This is h2 Heading</h4>
+    <h5>This is h2 Heading</h5>
+    <h6>This is h2 Heading</h6>
+
+<h3>To A Workout plan</h3>
+<!-- UnORDERED LIST -->
+<ul>
+    <a href="#monday"><li>Monday</li></a>
+    <a href="#Wednesday"><li>Wednesday</li></a>
+    <a href="#Friday"><li>Friday</li></a>
+</ul>
+    <ul>
+        <li>Hi</li>
+        <li>World</li>
+        <li>McDonalds</li>
+    </ul>
+
+
+    <!-- ORDERED LIST -->
+    <ol>
+        <li>Pani lo in container</li>
+        <li>Use Gas pe rakho</li>
+        <li>gas chalu karo </li>
+        <li>Chai patti dalo</li>
+        <li>Chini dalo</li>
+        <li>Chai pee lo</li>
+    </ol>
+    <p>Cryptids of Cornwall:</p>
+
+<!-- Description List -->
+<dl>
+    <dt>Beast of Bodmin</dt>
+    <dd>A large feline inhabiting Bodmin Moor.</dd>
+
+    <dt>Morgawr</dt>
+    <dd>A sea serpent.</dd>
+
+    <dt>Owlman</dt>
+    <dd>A giant owl-like creature.</dd>
+</dl>
+
+<!-- TABLE -->
+    <table>
+        <tr><!-- Table ROW -->
+            <td>Sr No.</td><!--TABLE DATA-->
+            <td>Name</td>
+            <td>Goals</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Messi</td>
+            <td>500</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Ronaldo</td>
+            <td>400</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>21</td>
+            <td>31</td>
+        </tr>
+        <tr>
+            <td>111</td>
+            <td>211</td>
+            <td>311</td>
+        </tr>
+    </table>
+
+    <!-- IMAGE -->
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fblack-aesthetic-landscape-wallpapers&psig=AOvVaw0sipQ28INgIpUZm64x9C4v&ust=1684514954814000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMi217Gp__4CFQAAAAAdAAAAABAJ" 
+    alt="Scenery">
+
+
+    <!-- Creating Bookmarks -->
+    <h2 id="monday" style="background-color:red;">PUSH</h2>
+    <p>Chest,Shoulder,Triceps</p>
+
+    <h2 id="Wednesday" style="color: darkgreen;">PULL</h2>
+    <p>Back,Biceps</p>
+
+    
+    <h2 id="Friday" style="color:rgb(127, 81, 201);">LEGS</h2>
+    <p>Squats,Lunges,Leg press,Leg Extension,Hamstring Curls,Calves</p>
+
+
+    <!-- Using Formatting Tags -->
+    <p><strong>Lorem</strong> <em>ipsum</em>, <s>dolor</s> sit amet consectetur <u>adipisicing elit</u>. Animi possimus eligendi totam iusto dolor sit quasi impedit vel sunt itaque nulla, neque facilis voluptatum accusantium. Dolorem labore quisquam mollitia, nisi repudiandae doloremque, aut quae possimus explicabo obcaecati, consequatur ex. Quam error, fugiat rerum repellendus dolorem id provident sunt esse? Perspiciatis, voluptatum at iste rem eligendi itaque, pariatur sint sit a corrupti voluptatem provident error quas optio iusto aliquid facilis doloremque reprehenderit explicabo deserunt alias aliquam incidunt eveniet. Sequi at id sit magni fuga vero reiciendis assumenda, facilis laborum fugit harum praesentium. Dignissimos inventore, sed quaerat officiis ullam id distinctio adipisci.</p>
+
+    <p>
+        2 <sup>2</sup>=4
+    </p>
+    <p>
+        CO<sub>2</sub>=Carbon Dioxide
+    </p>
+
+    <pre>
+        Hello Guys 
+        Welcome
+        To My Website
+    </pre>
+</body>
+</html>
